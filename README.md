@@ -8,6 +8,10 @@ Will become a sub heading
 
 **This will be Bold**
 
+![](demos/selectDifficulty.gif)
+![](demos/newColors.gif)
+![](demos/selecting.gif)
+
 - This will be a list item
 - This will be a list item
 
