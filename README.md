@@ -4,6 +4,8 @@
 Will become a sub heading
 --------------
 
+Second sub heading
+
 *This will be Italic*
 
 **This will be Bold**
