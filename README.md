@@ -1,5 +1,5 @@
 # Color-Game
-==============
+
 
 Will become a sub heading
 --------------
