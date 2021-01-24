@@ -1,21 +1,27 @@
-# Color-Game
+# The Great RGB Game 
 
+The Great RGB Game tests the user's familiarity with the RGB Color Model.
 
-Will become a sub heading
+Installation
 --------------
 
-Second sub heading
+- Download colorGame.html, colorGame.css, and colorGame.js
+- Open colorGame.html on the browser of your choice
+
+How to Play
 --------------
 
-*This will be Italic*
+The user is to guess the correct shade of color. The RGB values are provided at the top of the page. You can ask for new colors at any time. Gain the highest score you can.
 
-**This will be Bold**
-
-![](demos/selectDifficulty.gif)
 ![](demos/newColors.gif)
 ![](demos/selecting.gif)
 
-- This will be a list item
-- This will be a list item
+Choose your difficulty
+--------------
 
-    Add a indent and this will end up as code
+There are two difficulties: easy and hard.
+Easy: 3 color swatches to choose from
+Hard: 6 color swatches to choose from
+
+![](demos/selectDifficulty.gif)
+
